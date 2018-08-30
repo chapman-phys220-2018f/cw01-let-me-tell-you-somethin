@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 1
 
-**Author(s):** **CHANGEME**
+**Author(s):** Conner Carnahan, Gabriella Nutt
 
 ## Specification
 
@@ -14,7 +14,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
 
-**CHANGEME**
+How do you save a script? Does the terminal save after being exited/ restarted? We'll probably have more when we actually are using it?
 
 ## Honor Pledge
 
@@ -25,4 +25,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+Conner Carnahan, Gabriella Nutt
